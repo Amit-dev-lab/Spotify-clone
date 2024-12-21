@@ -1,4 +1,4 @@
-# Spotify-webpage-clone 
+# Spotify-Homepage-clone 
 
 This project is a basic clone of the Spotify webpage, 
 built entirely with HTML and CSS. It replicates the visual design and layout of Spotify’s homepage.
